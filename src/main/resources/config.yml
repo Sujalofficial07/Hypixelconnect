@@ -1,0 +1,13 @@
+# HypixelConnect Core Configuration
+# System designed for extreme modularity.
+
+storage:
+  # Currently supports: YAML
+  # Future support: MONGODB, MYSQL
+  type: "YAML"
+
+settings:
+  debug-mode: false
+  # How often to auto-save online players (in minutes)
+  auto-save-interval: 5
+  
