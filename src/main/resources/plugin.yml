@@ -1,0 +1,7 @@
+name: HypixelConnect
+version: 1.0.0
+main: com.yournetwork.hypixelconnect.HypixelConnect
+api-version: '1.21'
+author: YourNetwork
+description: Core API and Data Manager for the Skyblock network.
+load: STARTUP
